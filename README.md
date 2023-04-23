@@ -3,6 +3,8 @@
 The Cipher Challenge is an online Puzzle type Game where you need to solve the coding related question using the clues given.
 This game has clues hidden in a creative way and also test your coding skills 
 
+<h2>Deployment Site: </h2>
+https://cipher-challenge-khushi.netlify.app/
  
  <h2>Game Specification </h2>
  <h5>Admin Username</h5> : admin@gmail.com
