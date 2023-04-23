@@ -24,8 +24,8 @@ This game has clues hidden in a creative way and also test your coding skills
 <h6>Key3= Elon Musk : Deadend</h6>
 
 <h5>Level 3</h5>
-<h6>Key3(1): Door(1)=8    Door(2)=7 </h6>
-<h6> Key3(2): Door(1)=14   Door(2)=9</h6>
+<h6>Key3(1): Door(1)=8,   Door(2)=7 </h6>
+<h6> Key3(2): Door(1)=14,   Door(2)=9</h6>
    
 
 <h5>Level 4</h5>
