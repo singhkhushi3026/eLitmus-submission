@@ -16,12 +16,12 @@ This game has clues hidden in a creative way and also test your coding skills
  
 <br>
 <h5>Level 1</h5>
-<h6>Key: push_back()</h6> <br>
+<h6>Key= push_back()</h6> <br>
 
 <h5>Level 2</h5>
-<h6>Key1=Dennis Ritchie</h6>
-<h6>Key2=James Gosling</h6>
-<h6>Key3=Elon Musk : Deadend</h6>
+<h6>Key1= Dennis Ritchie</h6>
+<h6>Key2= James Gosling</h6>
+<h6>Key3= Elon Musk : Deadend</h6>
 
 <h5>Level 3</h5>
 <h6>Key3(1): (1)=8    (2)=7 <br>
@@ -33,4 +33,4 @@ This game has clues hidden in a creative way and also test your coding skills
 <h6>Key= Data Structures </h6>
 
 <h5>Level 5</h5>
-<h6>Key</h6>: Swastik <br>
+<h6>Key= Swastik</h6><br>
