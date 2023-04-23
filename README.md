@@ -9,7 +9,7 @@ This game has clues hidden in a creative way and also test your coding skills
  <h5>Admin Password</h5> : 1234
  <h5>Player Username</h5> : khushi@gmail.com
  <h5>Player Password</h5> : 1234
- <h5>The hints are in Camel Case Format except that of level1</h5>
+ 
  <br>
  <h5>Note:</h5> When you found 404 error while playing restart the game after finding the correct key and travel again.(This is the dead end at the cost of giving you hint).
  <br />
