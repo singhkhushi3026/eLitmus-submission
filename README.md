@@ -13,7 +13,7 @@ https://cipher-challenge-khushi.netlify.app/
  <h5>Player Password</h5> : 1234
  
  <br>
- <h5>Note:</h5> When you found 404 error while playing restart the game after finding the correct key and move again.(This is the dead end at the cost of giving you hint).
+ <h5>Note:</h5> When you found 404 error while playing restart the game after finding the correct key and move again(This is the dead end at the cost of giving you hint).
  <br />
  
 <br>
